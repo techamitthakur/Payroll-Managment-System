@@ -7,7 +7,7 @@ Payroll Managment System Using JSP
 
 * Employee's can Sign up 
 * Employee's can Sign in
-* Employee's can Reset Their password
+* Employee's can Reset their password
 * List of Employee's.
 * Delete employee data.
 * Salary Slip with (allowances, deductions, gross pay, net pay,etc).
